@@ -1,6 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C33AF7&background=FF13EA00&width=435&lines=Bienvenido+a+mi+canal+%F0%9F%91%8B)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C33AF7&background=FF13EA00&width=435&lines=Bienvenido+a+mi+canal%2C+Soy+Ariel+%F0%9F%91%8B)](https://git.io/typing-svg)
 <!--
+---
+
 **Enriqueariel96/Enriqueariel96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
