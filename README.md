@@ -6,7 +6,8 @@ Consideré que iba a permitirme desarrollarme en la administración y en la toma
 Mi desafío personal es aplicar el conocimiento adquirido a la creación, desarrollo y gestión de un proyecto, obteniendo cómo resultado un servicio de calidad y confiabilidad. 🤝
 
 ---
-###Algunos datos sobre mi:
+#Algunos datos sobre mi:
+
 -🔭 Creando proyectos aplicando mis conocimientos en Análisis de Datos y Ciencia de Datos.
 -✍ He culminado mis estudios de Data Science en el bootcamp de HENRY.
 -👯 Me gusta socializar y trabajar en equipo (Todos mejor que uno 💪).
