@@ -4,6 +4,7 @@ Hace algunos años era un joven estudiante de Letras 🤓 (me encanta la literat
 Luego de haber reflexionado cómo poder dar de manera efectiva una respuesta con mayor profesionalismo, decidí estudiar Data Science. 🚀
 Consideré que iba a permitirme desarrollarme en la administración y en la toma de decisiones basadas en datos y no de manera intuitiva, relacione los temas propuestos de la cursada a la orientación de un perfil distinto, con soporte en aplicaciones, ayudarme en la tecnología 💻 y una mirada creativa 💡, resolutiva y con herramientas que puedan obtener resultados eficaces y confiables. ⚙️✔️
 Mi desafío personal es aplicar el conocimiento adquirido a la creación, desarrollo y gestión de un proyecto, obteniendo cómo resultado un servicio de calidad y confiabilidad. 🤝
+
 ---
 ###Algunos datos sobre mi:
 -🔭 Creando proyectos aplicando mis conocimientos en Análisis de Datos y Ciencia de Datos.
